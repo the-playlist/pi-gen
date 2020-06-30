@@ -7,8 +7,5 @@ SKIP_IMAGES
 .pc
 *-pc
 apt-cacher-ng/
-<<<<<<< HEAD
 .DS_Store
-=======
 .idea
->>>>>>> 3e5d21a78fe8ef539fda4431c384e42a0bce46a7
